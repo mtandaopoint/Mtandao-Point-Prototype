@@ -18,4 +18,3 @@ Mtandao Point leverages solar-powered routers and community network models to de
 ## 👨‍💻 Created by
 **Madaraka Marco**  
 📧 [mtandaopoint@gmail.com](mailto:mtandaopoint@gmail.com)
-# Mtandao-Point-Prototype
